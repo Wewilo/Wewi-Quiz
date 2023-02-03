@@ -3,4 +3,4 @@ Quiz Game
 
 
 
-![Game Image](/game.png)
+![Game Image](../game.png)
