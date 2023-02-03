@@ -3,4 +3,4 @@ Quiz Game
 
 
 
-![Game Image](../wewi quiz/game.png)
+![Game Image](../game.png)
